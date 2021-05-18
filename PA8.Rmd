@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8"
-author: "Allison Trutna"
+author: "AT, BG, CP, KU"
 date: "5/18/2021"
 output: html_document
 ---
