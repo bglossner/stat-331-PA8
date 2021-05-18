@@ -1,12 +1,16 @@
 ---
 title: "Practice Activity 8"
-author: "Allison Trutna"
+author: "Allison -- AT, Kush -- KU, Ben -- BG, Chris -- CP"
 date: "5/18/2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
 ```
 
 ## R Markdown
@@ -24,8 +28,6 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-library(tidyverse)
-
 ggplot(pressure) +
   labs(x = "temp", y = "y")
 ```
